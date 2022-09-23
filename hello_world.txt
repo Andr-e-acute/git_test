@@ -1,3 +1,4 @@
 First words
 test commit message in vs
 changed email Address googmail to gmail to try to get the right username
+delete double account 
