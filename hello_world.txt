@@ -4,3 +4,4 @@ changed email Address googmail to gmail to try to get the right username
 delete double account 
 and again changed email, hopfully now correct
 and again username
+finaly? working
