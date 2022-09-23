@@ -5,3 +5,4 @@ delete double account
 and again changed email, hopfully now correct
 and again username
 finaly? working
+differnt name in git still working?
